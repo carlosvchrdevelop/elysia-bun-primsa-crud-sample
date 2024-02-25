@@ -24,6 +24,7 @@ Y añadimos e iniciamos el ORM de Primsa.
 
 ```bash
 bun add -d prisma
+bun add @prisma/client
 bunx prisma init
 ```
 
